@@ -54,6 +54,6 @@
 
 ###
 
-<p align="left">Connect with me on [LinkedIn](https://www.linkedin.com/in/antonio-liguori-b9a507277/)</p>
+<p align="left">Connect with me on </p> [LinkedIn](https://www.linkedin.com/in/antonio-liguori-b9a507277/)
 
 ###

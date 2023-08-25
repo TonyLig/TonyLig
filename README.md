@@ -55,6 +55,6 @@
 ###
 
 <p align="left">Connect with me on  <a href="https://www.linkedin.com/in/antonio-liguori-b9a507277/">LinkedIn</a></p>
-<p align="left">Sent me a <a href="tonilig.7@gmail.com">Mail</a></p>
+<p align="left">Sent me a <a href="tonylig.7@gmail.com">Mail</a></p>
 
 ###

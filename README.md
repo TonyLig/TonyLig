@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">💪 Skills</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">I am currently studying</h2>
+<h2 align="left">🧐 I am currently studying</h2>
 
 ###
 
@@ -50,14 +50,10 @@
 
 ###
 
-<h2 align="left">Soft skills</h2>
+<h2 align="left">📫 How to reach me</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-</div>
+<p align="left">Connect with me on [LinkedIn](https://www.linkedin.com/in/antonio-liguori-b9a507277/)</p>
 
 ###

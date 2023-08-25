@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Antonio a web developer from IT with a strong interest in web performance and site optimisation.</p>
+<p align="left">I am Antonio a web developer from IT with a strong interest in web performance and site optimization.</p>
 
 ###
 
@@ -54,6 +54,5 @@
 
 ###
 
-<p align="left">Connect with me on </p> [LinkedIn](https://www.linkedin.com/in/antonio-liguori-b9a507277/)
-
+<p align="left">Connect with me on [LinkedIn](https://www.linkedin.com/in/antonio-liguori-b9a507277/)</p>
 ###
